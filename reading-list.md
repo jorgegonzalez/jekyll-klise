@@ -12,11 +12,14 @@ Books that I especially loved are marked with an asterisk.
 
 ## Currently Reading
 
-- **The Invisible Life of Addie LaRue**, by V.E. Schwab
+- **Severance**, by Ling Ma
+- **Heretics of Dune**, by Frank Herbert
+- **The Odyssey**, by Emily Wilson
 - **Designing Data-Intensive Applications**, by Martin Kleppmann
 
 ### 2021
 
+1. **The Invisible Life of Addie LaRue**, by V.E. Schwab
 1. **The Tower of Swallows**, by Andrzej Sapkowski
 1. **A Field Guide to Getting Lost**, by Rebecca Solnit
 1. **If You Come Softly**, by Jacqueline Woodson
