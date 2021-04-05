@@ -21,6 +21,8 @@ Books that I especially loved are marked with an asterisk.
 
 ### 2021
 
+1. **[Laziness Does Not Exist](https://bookshop.org/books/laziness-does-not-exist/9781982140106)**, by Devon Price, PhD
+
 1. **[The Invisible Life of Addie LaRue](https://bookshop.org/books/the-invisible-life-of-addie-larue/9780765387561)**, by V.E. Schwab
 1. **[The Tower of Swallows](https://bookshop.org/books/the-tower-of-swallows/9780316273718)**, by Andrzej Sapkowski
 1. **[A Field Guide to Getting Lost](https://bookshop.org/books/a-field-guide-to-getting-lost/9780143037248)**, by Rebecca Solnit
