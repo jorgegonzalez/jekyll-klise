@@ -17,8 +17,8 @@ Books that I especially loved are marked with an asterisk.
 - **[The Odyssey](https://bookshop.org/books/the-odyssey-9780393356250/9780393356250)**, by Emily Wilson
 - **[Designing Data-Intensive Applications](https://bookshop.org/books/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems/9781449373320)**, by Martin Kleppmann
 - **[The Slow Regard of Silent Things](https://bookshop.org/books/the-slow-regard-of-silent-things/9780756411329)**, by Patrick Rothfuss
-- **[Vox Machina Origins: Volume II](https://bookshop.org/books/critical-role-vox-machina-origins-volume-ii/9781506714493)**, by Critical Role
--**[City of Towers](https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847)**, by Keith Baker
+- **[Vox Machina Origins: Volume II](https://bookshop.org/books/critical-role-vox-machina-origins-volume-ii/9781506714493)**, by Critical Role 
+- **[City of Towers](https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847)**, by Keith Baker
 
 
 ### 2021
