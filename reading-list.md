@@ -12,17 +12,18 @@ Books that I especially loved are marked with an asterisk.
 
 ## Currently Reading
 
+- **[The Lady of the Lake](https://bookshop.org/books/the-lady-of-the-lake-9780316273831/9780316273831)**, by Andrzej Sapkowski
 - **[Severance](https://bookshop.org/books/severance-9781250214997/9781250214997)**, by Ling Ma
 - **[Heretics of Dune](https://bookshop.org/books/heretics-of-dune/9780593098264)**, by Frank Herbert
 - **[The Odyssey](https://bookshop.org/books/the-odyssey-9780393356250/9780393356250)**, by Emily Wilson
 - **[Designing Data-Intensive Applications](https://bookshop.org/books/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems/9781449373320)**, by Martin Kleppmann
 - **[The Slow Regard of Silent Things](https://bookshop.org/books/the-slow-regard-of-silent-things/9780756411329)**, by Patrick Rothfuss
 - **[Vox Machina Origins: Volume II](https://bookshop.org/books/critical-role-vox-machina-origins-volume-ii/9781506714493)**, by Critical Role 
-- **[City of Towers](https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847)**, by Keith Baker
 
 
 ### 2021
 
+1. **[City of Towers](https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847)**, by Keith Baker
 1. **[Laziness Does Not Exist](https://bookshop.org/books/laziness-does-not-exist/9781982140106)**, by Devon Price, PhD
 1. **[The Invisible Life of Addie LaRue](https://bookshop.org/books/the-invisible-life-of-addie-larue/9780765387561)**, by V.E. Schwab
 1. **[The Tower of Swallows](https://bookshop.org/books/the-tower-of-swallows/9780316273718)**, by Andrzej Sapkowski
