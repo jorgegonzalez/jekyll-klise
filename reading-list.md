@@ -23,6 +23,7 @@ Books that I especially loved are marked with an asterisk.
 
 ### 2021
 
+1. **[Artemis](https://bookshop.org/books/artemis-9780525532101/9780553448146)**, by Andy Weir
 1. **[City of Towers](https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847)**, by Keith Baker
 1. **[Laziness Does Not Exist](https://bookshop.org/books/laziness-does-not-exist/9781982140106)**, by Devon Price, PhD
 1. **[The Invisible Life of Addie LaRue](https://bookshop.org/books/the-invisible-life-of-addie-larue/9780765387561)**, by V.E. Schwab
