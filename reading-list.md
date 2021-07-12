@@ -12,17 +12,25 @@ Books that I especially loved are marked with an asterisk.
 
 ## Currently Reading
 
+#### Fiction
+
+- **[Son of Khyber](https://www.amazon.com/Son-Khyber-Thorn-Breland-Book/dp/0786952342/)**, by Keith Baker
 - **[The Lady of the Lake](https://bookshop.org/books/the-lady-of-the-lake-9780316273831/9780316273831)**, by Andrzej Sapkowski
-- **[Severance](https://bookshop.org/books/severance-9781250214997/9781250214997)**, by Ling Ma
 - **[Heretics of Dune](https://bookshop.org/books/heretics-of-dune/9780593098264)**, by Frank Herbert
 - **[The Odyssey](https://bookshop.org/books/the-odyssey-9780393356250/9780393356250)**, by Emily Wilson
-- **[Designing Data-Intensive Applications](https://bookshop.org/books/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems/9781449373320)**, by Martin Kleppmann
 - **[The Slow Regard of Silent Things](https://bookshop.org/books/the-slow-regard-of-silent-things/9780756411329)**, by Patrick Rothfuss
-- **[Vox Machina Origins: Volume II](https://bookshop.org/books/critical-role-vox-machina-origins-volume-ii/9781506714493)**, by Critical Role 
 
+#### Software Engineering
+
+- **[Designing Data-Intensive Applications](https://bookshop.org/books/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems/9781449373320)**, by Martin Kleppmann
 
 ### 2021
 
+1. **[Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/)**, by Andy Weir
+1. **[The Anthropocene Reviewed](https://www.amazon.com/Anthropocene-Reviewed-Signed-John-Green/dp/0525555218/)**, by John Green
+1. **[The Queen of Stone](https://www.amazon.com/Queen-Stone-Thorn-Breland/dp/0786950099/)**, by Keith Baker
+1. **[The Shattered Land](https://www.amazon.com/Shattered-Land-Dreaming-Dark-Book/dp/0786938218/)**, by Keith Baker
+1. **[Vox Machina Origins: Volume II](https://bookshop.org/books/critical-role-vox-machina-origins-volume-ii/9781506714493)**, by Critical Role 
 1. **[Artemis](https://bookshop.org/books/artemis-9780525532101/9780553448146)**, by Andy Weir
 1. **[City of Towers](https://www.amazon.com/City-Towers-Eberron-Dreaming-Dark/dp/0786935847)**, by Keith Baker
 1. **[Laziness Does Not Exist](https://bookshop.org/books/laziness-does-not-exist/9781982140106)**, by Devon Price, PhD
