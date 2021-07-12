@@ -12,7 +12,7 @@ Books that I especially loved are marked with an asterisk.
 
 ## Currently Reading
 
-#### Fiction
+**Fiction**
 
 - **[Son of Khyber](https://www.amazon.com/Son-Khyber-Thorn-Breland-Book/dp/0786952342/)**, by Keith Baker
 - **[The Lady of the Lake](https://bookshop.org/books/the-lady-of-the-lake-9780316273831/9780316273831)**, by Andrzej Sapkowski
@@ -20,7 +20,7 @@ Books that I especially loved are marked with an asterisk.
 - **[The Odyssey](https://bookshop.org/books/the-odyssey-9780393356250/9780393356250)**, by Emily Wilson
 - **[The Slow Regard of Silent Things](https://bookshop.org/books/the-slow-regard-of-silent-things/9780756411329)**, by Patrick Rothfuss
 
-#### Software Engineering
+**Software Engineering**
 
 - **[Designing Data-Intensive Applications](https://bookshop.org/books/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems/9781449373320)**, by Martin Kleppmann
 
@@ -82,6 +82,7 @@ Books that I especially loved are marked with an asterisk.
 
 ### 2018
 
+1. **[An Absolutely Remarkable Thing](https://www.amazon.com/Absolutely-Remarkable-Thing-Novel/dp/1524743445)**, by Hank Green
 1. **[Bad Blood](https://bookshop.org/books/bad-blood-secrets-and-lies-in-a-silicon-valley-startup/9780525431992)**, by John Carreyrou
 1. **[Little Fires Everywhere](https://bookshop.org/books/little-fires-everywhere/9780735224315)**, by Celeste Ng\*
 1. **[Yes We (Still) Can](https://bookshop.org/books/yes-we-still-can-politics-in-the-age-of-obama-twitter-and-trump/9781538711705)**, by Dan Pfeiffer
@@ -89,3 +90,4 @@ Books that I especially loved are marked with an asterisk.
 1. **[Paddle Your Own Canoe](https://bookshop.org/books/paddle-your-own-canoe-one-man-s-fundamentals-for-delicious-living/9780451467096)**, by Nick Offerman
 1. **[Yes Please](https://bookshop.org/books/yes-please-9780062268341/9780062268358)**, by Amy Poehler
 1. **[Bossypants](https://bookshop.org/books/bossypants/9780316056878)**, by Tina Fey
+1. **[Turtles All the Way Down](https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366/)**, by John Green
