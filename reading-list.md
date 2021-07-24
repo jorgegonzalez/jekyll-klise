@@ -14,9 +14,8 @@ Books that I especially loved are marked with an asterisk.
 
 **Fiction**
 
-- **[The Gates of Night](https://www.amazon.com/Gates-Night-Dreaming-Dark-Book/dp/B0073ZGECI/)**, by Keith Baker
-- **[Son of Khyber](https://www.amazon.com/Son-Khyber-Thorn-Breland-Book/dp/0786952342/)**, by Keith Baker
 - **[The Lady of the Lake](https://bookshop.org/books/the-lady-of-the-lake-9780316273831/9780316273831)**, by Andrzej Sapkowski
+- **[Son of Khyber](https://www.amazon.com/Son-Khyber-Thorn-Breland-Book/dp/0786952342/)**, by Keith Baker
 - **[Heretics of Dune](https://bookshop.org/books/heretics-of-dune/9780593098264)**, by Frank Herbert
 - **[The Odyssey](https://bookshop.org/books/the-odyssey-9780393356250/9780393356250)**, by Emily Wilson
 - **[The Slow Regard of Silent Things](https://bookshop.org/books/the-slow-regard-of-silent-things/9780756411329)**, by Patrick Rothfuss
@@ -27,6 +26,8 @@ Books that I especially loved are marked with an asterisk.
 
 ### 2021
 
+1. **[The Hitchhiker's Guide to the Galaxy](https://bookshop.org/books/the-hitchhiker-s-guide-to-the-galaxy-9780345391803/9780345391803)**, by Douglas Adams
+1. **[The Gates of Night](https://www.amazon.com/Gates-Night-Dreaming-Dark-Book/dp/B0073ZGECI/)**, by Keith Baker
 1. **[Mad Men and Philosophy](https://bookshop.org/books/mad-men-and-philosophy-nothing-is-as-it-seems/9780470603017)**, by William Irwin et al.
 1. **[The Midnight Library](https://bookshop.org/books/the-midnight-library-9780655697077/9780525559474)**, by Matt Haig
 1. **[Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/)**, by Andy Weir
