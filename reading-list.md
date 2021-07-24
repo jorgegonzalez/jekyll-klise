@@ -26,13 +26,13 @@ Books that I especially loved are marked with an asterisk.
 
 ### 2021
 
-1. **[The Hitchhiker's Guide to the Galaxy](https://bookshop.org/books/the-hitchhiker-s-guide-to-the-galaxy-9780345391803/9780345391803)**, by Douglas Adams
+1. **[The Hitchhiker's Guide to the Galaxy](https://bookshop.org/books/the-hitchhiker-s-guide-to-the-galaxy-9780345391803/9780345391803)**, by Douglas Adams\*
 1. **[The Gates of Night](https://www.amazon.com/Gates-Night-Dreaming-Dark-Book/dp/B0073ZGECI/)**, by Keith Baker
 1. **[Mad Men and Philosophy](https://bookshop.org/books/mad-men-and-philosophy-nothing-is-as-it-seems/9780470603017)**, by William Irwin et al.
 1. **[The Midnight Library](https://bookshop.org/books/the-midnight-library-9780655697077/9780525559474)**, by Matt Haig
 1. **[Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/)**, by Andy Weir
 1. **[The Anthropocene Reviewed](https://www.amazon.com/Anthropocene-Reviewed-Signed-John-Green/dp/0525555218/)**, by John Green
-1. **[The Queen of Stone](https://www.amazon.com/Queen-Stone-Thorn-Breland/dp/0786950099/)**, by Keith Baker
+1. **[The Queen of Stone](https://www.amazon.com/Queen-Stone-Thorn-Breland/dp/0786950099/)**, by Keith Baker\*
 1. **[The Shattered Land](https://www.amazon.com/Shattered-Land-Dreaming-Dark-Book/dp/0786938218/)**, by Keith Baker
 1. **[Vox Machina Origins: Volume II](https://bookshop.org/books/critical-role-vox-machina-origins-volume-ii/9781506714493)**, by Critical Role 
 1. **[Artemis](https://bookshop.org/books/artemis-9780525532101/9780553448146)**, by Andy Weir
